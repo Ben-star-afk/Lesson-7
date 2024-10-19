@@ -1,0 +1,16 @@
+p{
+            color: darkred;
+                font-size: 40px;
+    font-family: fantasy;
+}
+/* id selecdtor */
+#Birthday{color: blueviolet; font-size: 60px;}
+
+/* class slsctor */
+.subject{color: aqua; font-size: 65px;}
+
+/* universal selector */
+*{background-color: red;}
+
+/* Group selector */
+h1,h2{color: chartreuse; font-size: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
